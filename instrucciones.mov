@@ -1,0 +1,8 @@
+agregar_stock Leche;50;BodegaA
+eliminar_equipo Leche;20;BodegaA
+agregar_stock Pachones;100;BodegaB
+eliminar_equipo Lapiceros;40;BodegaC
+agregar_stock Jamon;10;BodegaC
+agregar_stock Borradores;300;BodegaA
+eliminar_equipo Telefonos;100;BodegaB
+eliminar_equipo Pan;550;BodegaB
